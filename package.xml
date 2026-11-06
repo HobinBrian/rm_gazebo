@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>rm_gazebo</name>
+  <version>1.0.0</version>
+  <description>Minimal gazebo world for rm_description_for_task (upstream repo deleted)</description>
+  <maintainer email="you@example.com">you</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
